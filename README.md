@@ -12,5 +12,5 @@
 
 Live Demo: [https://angry-birds-clone.netlify.app/](https://angry-birds-clone.netlify.app/)
 
-[![angry-preview](https://user-images.githubusercontent.com/114364831/209479658-48fe1607-c9e6-4e03-8c90-05f251ac5ba2.jpg)
+[![angry-birds-demo-preview](https://user-images.githubusercontent.com/114364831/209479669-83b8cb54-0295-4888-973a-b5b560676211.jpg))
 ](https://angry-birds-clone.netlify.app/)
