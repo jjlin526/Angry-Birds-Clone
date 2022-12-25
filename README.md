@@ -5,9 +5,9 @@
 * Press 'b' to spawn shapes at your mouse location
 * Shapes can be propelled at the block tower using the propeller
 * The propeller can be controlled using left and right arrows
-* Press 'r' to reset the starter ball to its initial location
-* Drag the starter ball to use it as a slingshot
-* Do not touch the enemy imposter
+* Press 'r' to reset the starter octagon to its initial location
+* Drag the starter octagon to use it as a slingshot
+* Do not touch the enemy imposter (it moves predictably!)
 * If you are struggling to beat the game, hold down on your mouse to use it as a bulldozer!
 
 Live Demo: [https://angry-birds-clone.netlify.app/](https://angry-birds-clone.netlify.app/)
