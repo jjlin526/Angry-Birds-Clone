@@ -237,15 +237,16 @@ function drawGameInstructions() {
   textAlign(LEFT);
 
   // Player control keyboard instructions
-  text("Press 'r' to reset the ball to its initial position", 245, 115);
-  text("Press 'b' to spawn a shape at your mouse position", 245, 140);
-  text("Press 'left arrow' to spin propeller clockwise", 245, 165);
-  text("Press 'right arrow' to spin propeller counterclockwise", 245, 190);
+  text("Drag the octagon to fire it using the slingshot", 245, 115);
+  text("Press 'r' to reset the ball to its initial position", 245, 140);
+  text("Press 'b' to spawn a shape at your mouse position", 245, 165);
+  text("Press 'left arrow' to spin propeller clockwise", 245, 190);
+  text("Press 'right arrow' to spin propeller counterclockwise", 245, 215);
   textStyle(BOLD);
   fill(180, 40, 40, fade);
   // Game objective instructions
-  text("Do not let your cursor touch the flying creature!", 245, 215);
-  text("Remove all blocks in less than 60 seconds to win!", 245, 240);
+  text("Do not let your cursor touch the flying creature!", 245, 240);
+  text("Remove all blocks in less than 60 seconds to win!", 245, 265);
 }
 
 // Display the number of blocks that have not been knocked out
