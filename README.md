@@ -10,7 +10,7 @@
 * Do not touch the enemy imposter (it moves predictably!)
 * If you are struggling to beat the game, hold down on your mouse to use it as a bulldozer!
 
-Live Demo: [https://angry-birds-clone.netlify.app/](https://angry-birds-clone.netlify.app/)
+### Live Demo: [https://angry-birds-clone.netlify.app/](https://angry-birds-clone.netlify.app/)
 
 [![angry-birds-demo-preview](https://user-images.githubusercontent.com/114364831/209479669-83b8cb54-0295-4888-973a-b5b560676211.jpg))
 ](https://angry-birds-clone.netlify.app/)
